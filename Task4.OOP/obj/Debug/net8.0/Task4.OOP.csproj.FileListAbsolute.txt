@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\bin\Debug\net8.0\Task4.OOP.exe
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\bin\Debug\net8.0\Task4.OOP.deps.json
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\bin\Debug\net8.0\Task4.OOP.runtimeconfig.json
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\bin\Debug\net8.0\Task4.OOP.dll
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\bin\Debug\net8.0\Task4.OOP.pdb
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.dll
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\refint\Task4.OOP.dll
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.pdb
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\ref\Task4.OOP.dll

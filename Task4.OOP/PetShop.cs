@@ -11,6 +11,26 @@ namespace Task4.OOP
     {
         public CatHouse[] CatHouses;
         public int CatHouseCount;
-        public PetShop() { }
+        public PetShop(CatHouse[] CatHouses, int CatHouseCount) {
+            this.CatHouses = CatHouses;
+            this.CatHouseCount = CatHouseCount;
+        }
+        public PetShop(int capacity)
+        {
+            CatHouses = new CatHouse[capacity];
+            CatHouseCount = 0;
+        }
+
+        public void ShowPetShop()
+        {
+            foreach (var catHouse in CatHouses)
+            {
+                if (catHouse != null)
+                {
+                    catHouse.ShowCats();
+                    Console.WriteLine();
+                }
+            }
+        }
     }
 }

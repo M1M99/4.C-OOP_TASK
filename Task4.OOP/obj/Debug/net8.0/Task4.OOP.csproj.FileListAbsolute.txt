@@ -12,3 +12,4 @@ C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\refint\Task4.OOP
 C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.pdb
 C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\ref\Task4.OOP.dll
+C:\Users\ASUS\source\repos\Task4.OOP\Task4.OOP\obj\Debug\net8.0\Task4.OOP.sourcelink.json
